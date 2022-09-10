@@ -1,0 +1,14 @@
+10.09.2022, 17:26
+Statystyka projektu
+
+                           	Segmentów	Wyrazów	Znaków (bez spacji)	Znaków (ze spacjami)	#Pliki	
+Całkowita liczba:          	     4601	  67021	             366342	              415591	     1	
+Pozostało:                 	     4601	  67021	             366342	              415591	     1	
+Niepowtarzalnych ogólnie:  	     4529	  66083	             361906	              410328	     1	
+Niepowtarzalnych pozostało:	     4529	  66083	             361906	              410328	     1	
+
+
+Statystyka poszczególnych plików:
+
+Nazwa pliku	Wszystkie segmenty	Segmentów pozostało	Unikalne segmenty	Unikalnych segmentów pozostało	Całkowita ilość wyrazów	Wyrazów pozostało	Unikalne wyrazy	Unikalnych wyrazów pozostało	Znaków (bez spacji)	Znaków pozostało (bez spacji)	Unikalne wyrazy (bez spacji)	Unikalnych wyrazów pozostało (bez spacji)	Znaków (ze spacjami)	Znaków pozostało (ze spacjami)	Unikalne wyrazy (ze spacjami)	Unikalnych wyrazów pozostało (ze spacjami)	
+out.txt    	              4601	               4601	             4529	                          4529	                  67021	            67021	          66083	                       66083	             366342	                       366342	                      361906	                                   361906	              415591	                        415591	                       410328	                                    410328	
