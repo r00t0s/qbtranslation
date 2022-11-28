@@ -1,4 +1,4 @@
-Ten plik został stworzony w Notepad ++ z Niestandardową Składnią, która sortuje niektóre części skryptów.
+Ten plik został stworzony w Notepad ++ z Niestandardową Składnią, która sortuje niektóre części następującego skryptu.
 
 /_ - Otwarcie
 
@@ -627,3 +627,625 @@ OD: CINE_52B_200_300_BETH=
 DO: CINE_52B_200_300_SERENE=
 
 /.
+
+/.
+
+/.
+
+/_ AKT 5: WRÓCĘ PO CIEBIE
+
+/_ ROZWIDLENIE 4: KONTROLA / UJARZMIENIE
+
+SEKWENCJA FILMOWA 1:
+
+OD: CINE_J4_100_000_MONARCH_TROOPER=
+DO: CINE_J4_100_000_SERENE=
+
+
+ROZGRYWKA:
+
+OD: juna4_0008_SERENE_The_lab_explosion__M=
+DO: juna4_0038_MONARCH_TROOPER_The_treatment_s_righ=
+
+
+SEKWENCJA FILMOWA 2:
+
+OD: CINE_J4_120_000_MONARCH_TROOPER=
+DO: CINE_J4_120_000_SERENE=
+
+
+ROZGRYWKA: POCZĄTEK ROZWIDLENIA 4
+
+juna4_0043_SERENE_The_treatment_will_m=
+
+/_ ROZGRYWKA: ROZWIDLENIE 4 - KONTROLA
+
+OD: juna4_0044_LIAM_I_m_not_a_traitor_=
+DO: juna4_0050_SERENE_Liam_Burke__He_would=
+
+/.
+
+/_ ROZGRYWKA: ROZWIDLENIE 4 - UJARZMIENIE
+
+OD: juna4_0052_SERENE_You_ve_all_betrayed_=
+DO: juna4_0058_SERENE_Charlie_Wincott__ano=
+
+
+
+/.
+
+
+/_ SEKWENCJA FILMOWA 4: KONTROLA
+
+OD: CINE_J4_200_000A_MONARCH_TROOPER=
+DO: CINE_J4_200_000A_SERENE=
+
+/.
+
+/_ SEKWENCJA FILMOWA 4: UJARZMIENIE
+
+OD: CINE_J4_200_000B_MONARCH_TROOPER=
+DO: CINE_J4_200_000B_SERENE=
+
+/.
+
+
+
+/.
+
+/_ CZĘŚĆ 1: KWATERA GŁOWNA MONARCH
+
+SEKWENCJA FILMOWA 1: JACK KIERUJE SIĘ DO KWATERY GŁÓWNEJ MONARCH
+
+OD: CINE_61_100_000_JACK_INTERVIEW=
+DO: CINE_52B_100_000_JACK_INTERVIEW=
+
+ROZGRYWKA 1:
+
+OD: a6p1_0014_JACK_C_mon__c_mon____ther=
+DO: a6p1_0150d_JACK_Looks_like_they_have=
+
+SEKWENCJA FILMOWA 2: HATCH JAKO TZW. SHIFTER ATAKUJE JACK'AKT
+
+CINE_61_170_000_JACK=
+
+
+ROZGRYWKA 2:
+
+OD: a6p1_0152_JACK_What_the_fuck__Was_t=
+DO: a6p1_0205_MONARCH_RADIO_COMMANDER_Copy_that__Good_hunt=
+
+
+SEKWENCJA FILMOWA 3: JACK SZPERA PRZY LAPTOPIE SERENE'A
+
+OD: CINE_61_200_000_JACK=
+DO: CINE_61_200_000_SERENE=
+
+
+ROZGRYWKA 3:
+
+OD: a6p1_0206_JACK_That_was_just_a_coup=
+DO: a6p1_0215_JACK_Who_the_hell_=
+
+
+
+SEKWENCJA FILMOWA 3 (KONTROLA): JACK MIERZY SIĘ Z LIAM'EM BURKIEM
+
+OD: CINE_61_225_000_JACK=
+DO: CINE_61_225_000_LIAM=
+
+ROZGRYWKA 4 (KONTROLA):
+
+OD: a6p1_0221_JACK_Jesus__have_it_your_=
+DO: a6p1_0222_JACK_Of_course_he_s_got_o=
+
+
+
+
+SEKWENCJA FILMOWA 4 (KONTROLA): JACK POKONUJE LIAM'A BURKE'A
+
+OD: CINE_61_250_000_JACK=[
+DO: CINE_61_250_000_LIAM=
+
+ROZGRYWKA 5 (KONTROLA):
+
+OD: a6p1_0225_JACK_INTERVIEW_Seeing_that_face_put=
+DO: a6p1_0231_FIONA_Good_luck_=
+
+ROZGRYWKA 5 (UJARZMIENIE):
+
+OD 1: a6p1_0216_CFR_CHAMBER_GUARD_You_re_not_supposed_=
+DO 1: a6p1_0217_CHARLIE_No__look__I_can_expl=
+OD 2: a6p1_0233_CFR_CHAMBER_GUARD_Who_the_fuck_are_you=
+DO 2: a6p1_0280_CHARLIE_You_gonna_go_back_in=
+
+ROZGRYWKA 5:
+
+OD: a6p1_0282_JACK_INTERVIEW_Paul_took_the_core_o=
+DO: a6p1_0305_JACK_You_better_be_as_adv=
+
+
+
+/.
+
+/_ CZĘŚĆ 2: POWRÓT DO UNIWERSYSTETU
+
+SEKWENCJA FILMOWA 1: JACK WYCHODZI Z UNIWERSYTECKIEGO WEHIKUŁU CZASU
+
+OD: CINE_62_100_000_JACK=
+DO: CINE_62_100_000_WILLIAM=
+
+ROZGRYWKA 1: 
+
+OD: a6p2_0008_MONARCH_GUARD_LAB_1_HQ__we_ve_got_an_int=
+DO: a6p2_0119_SERENE_It_took_me_years_to_=
+
+
+SEKWENCJA FILMOWA 2: JACK RATUJE WILL'A
+
+OD: CINE_62_200_000_JACK=
+DO: CINE_62_200_000_WILLIAM=
+
+
+
+ROZGRYWKA 2:
+
+OD: a6p2_0151_WILLIAM_This_way_=
+DO: a6p2_0197_WILLIAM_Ah__I_see_=
+
+SEKWENCJA FILMOWA 3: ZACIĘCIE UDERZA, JACK ZAUWAŻA BETH I SWÓJ ARESZT
+
+OD: CINE_62_300_000_JACK=
+DO: CINE_62_300_000_WILLIAM=
+
+/.
+
+
+/_ CZĘŚĆ 3: OSTATNIE CHWILE
+
+ROZGRYWKA 1:
+
+OD: a6p3_0004_WILLIAM_Look__I_know_I_ve_ke=
+DO: a6p3_0034_JACK_But_I_thought_that__=
+
+
+SEKWENCJA FILMOWA 1: JACK I WILLIAM ODKRYWAJĄ WEHIKUŁ CZASU
+
+OD: CINE_63_200_000_JACK=
+DO: CINE_63_200_000_WILLIAM=
+
+
+ROZGRYWKA 2:
+
+OD: a6p3_0042_WILLIAM_This_is_amazing____A=
+DO: a6p3_0056_JACK_They_ve_been_taking_=
+
+
+SEKWENCJA FILMOWA 2: WALKA Z SERENE'M
+
+OD: CINE_63_250_000A_JACK=
+DO: CINE_63_250_000B_SERENE=
+
+
+ROZGRYWKA 3:
+
+OD: a6p3_0077a_SERENE_Take_him_down_=
+DO: a6p3_0097_JACK_Us__Who_the_fuck_are=
+
+
+SEKWENCJA FILMOWA 3:  JACK POKONUJE SERENE'A
+
+OD: CINE_63_300_000_JACK=
+DO: CINE_63_300_000_WILLIAM=
+
+ROZGRYWKA 4:
+
+OD: a6p3_0102_WILLIAM_I_ll_have_to_hook_up=
+DO: a6p3_0110_JACK_Uh____okay__You_re_t=
+
+
+SEKWENCJA FILMOWA 4: JACK I WILL NAPRAWIAJĄ CZAS
+
+OD: CINE_63_400_410_450_470_JACK=
+DO: CINE_63_500_000_KATE_ON-SCREEN=
+
+/.
+
+
+
+
+Inne (gdy gracz np. strzeli obok postaci lub pozostaje bezczynny):
+
+/_ SOFIA
+
+gen_0001_SOFIA_Are_we_going_to_be_d=Are we going to be doing this?
+gen_0002_SOFIA_We_ll_go_when_you_re=We'll go when you're ready.
+gen_0003_SOFIA_Whenever_you_re_read=Whenever you're ready.
+gen_0004_SOFIA_Let_s_get_to_the_tim=Let's get to the time machine.
+gen_0005_SOFIA_Are_we_going_=Are we going?
+gen_0006_SOFIA_Let_s_get_this_over_=Let's get this over with.
+
+
+/_ GDY GRACZ WYSTRZELI BROŃ OBOK SOFII
+
+gen_0020_SOFIA_Stop_shooting_=Stop shooting!
+gen_0021_SOFIA_Please_stop_shooting=Please stop shooting!
+gen_0022_SOFIA_Ah__What_s_happening=Ah! What's happening?
+gen_0023_SOFIA_Stop__Stop_it_=Stop! Stop it.
+
+/.
+
+/.
+
+/_ AMY
+
+gen_0001_AMY_I_think_you_need_to_=I think you need to get to this side of the gate somehow.
+gen_0005a_AMY_Jack__you_need_to_ge=Jack, you need to get to this side somehow.
+gen_0005b_AMY_I_m_not_going_anywhe=I'm not going anywhere until you're on this side of the gate.
+gen_0010a_AMY_Yeah__that_window_s_=Yeah, that window's pretty high up, but... I think it's the only way in.
+gen_0010b_AMY_How_about_that_windo=How about that window, do you think you could get in through there?
+gen_0010c_AMY_The_window__Jack__wh=The window, Jack, what do you think?
+gen_0010d_AMY_That_window__Jack___=That window, Jack...?
+gen_0010e_AMY_Jack__the_window_=Jack, the window.
+gen_0020_AMY_Jack__you_should_tak=Jack, you should take a look at the map.
+
+
+/_ GDY GRACZ WYSTRZELI BROŃ OBOK AMY
+
+gen_0030_AMY_Hey__Are_you_nuts_=Hey! Are you nuts?
+gen_0031_AMY_Stop_shooting_=Stop shooting!
+gen_0032_AMY_Why_are_you_shooting=Why are you shooting?
+gen_0033_AMY_What_the_hell__Jack_=What the hell, Jack?
+gen_0034_AMY_Don_t_do_that_withou=Don't do that without warning! Geez!
+gen_0034_AMY_Please_don_t_=Please don't.
+
+/.
+
+/.
+
+/_ NICK
+
+gen_0001_NICK_Soo____how_re_you_go=Soo... how're you gonna get past that gate?
+gen_0010_NICK_Maybe_I_could_boost_=Maybe I could boost you up to that window... No, no, it's too high. You'll figure something out.
+gen_0020_NICK_Hey__Magellan__you_w=Hey, Magellan, you wanna take a look at the map?
+
+
+/_ GDY GRACZ WYSTRZELI BROŃ OBOK NICK'A
+
+gen_0030_NICK_Whoa__Hey_=Whoa! Hey!
+gen_0031_NICK_The_hell_re_you_shoo=The hell're you shooting at?
+gen_0032_NICK_Why_re_you_shooting_=Why're you shooting?
+gen_0033_NICK_What_the_shit_=What the shit?
+gen_0034_NICK_Aah__Are_you_trying_=Aah! Are you trying to make me shit myself?!
+gen_0035_NICK_I_hate_guns_=I hate guns!
+
+/.
+
+/.
+
+/_ BETH
+
+
+gen_0030a_BETH_Hmm_=Hmm.
+gen_0031a_BETH_Huh_=Huh.
+gen_0040a_BETH_Whoa_=Whoa!
+gen_0041a_BETH_Huh_=Huh!
+gen_0080a_BETH_Hey__over_here_=Hey, over here!
+gen_0081a_BETH_Over_here__Jack_=Over here, Jack.
+gen_0082a_BETH_I_think_this_is_it_=I think this is it.
+gen_0083a_BETH_This_could_be_it_=This could be it.
+gen_0084a_BETH_Come_take_a_look_at_=Come take a look at this.
+gen_0085a_BETH_Come_here_=Come here.
+gen_0087a_BETH_Look_at_that_=Look at that.
+gen_0088a_BETH_Over_there_=Over there.
+gen_0090a_BETH_That_looks_promising=That looks promising.
+gen_0091a_BETH_There_=There.
+gen_0092a_BETH_Look_at_this_=Look at this.
+gen_0094a_BETH_Interesting___=Interesting...
+gen_0101a_BETH_C_mon__this_way_=C’mon, this way.
+gen_0102a_BETH_Follow_me_=Follow me.
+gen_0103a_BETH_Let_s_go_=Let’s go.
+gen_0104a_BETH_This_way__Jack_=This way, Jack.
+gen_0105a_BETH_It_s_over_here_=It’s over here.
+gen_0106a_BETH_It_s_this_way_=It’s this way.
+gen_0107a_BETH_Hey__stop_for_a_minu=Hey, stop for a minute.
+gen_0108a_BETH_Hold_it_=Hold it.
+gen_0109a_BETH_Wait_=Wait.
+gen_0120a_BETH_Ow_=Ow.
+gen_0121a_BETH_Ouch_=Ouch.
+gen_0122a_BETH_Crap_=Crap.
+gen_0123a_BETH_C_mon_=C’mon.
+
+/.
+
+/_ WILL
+
+gen_1800_WILLIAM_Ugh_=Ugh.
+gen_1801_WILLIAM_Ew_=Ew.
+gen_1802_WILLIAM_Shit_=Shit.
+gen_1803_WILLIAM_What_a_waste_=What a waste.
+gen_1804_WILLIAM_Awful_=Awful.
+gen_1900_WILLIAM_Oh_no_=Oh no!
+gen_1905_WILLIAM_Shit_=Shit!
+gen_2001_WILLIAM_Wow___=Wow...
+gen_2002_WILLIAM_Holy___=Holy...
+gen_2003_WILLIAM_Look_at_that_=Look at that.
+gen_2004_WILLIAM_It_s_real__It_s_real=It's real. It's really happening.
+gen_2100_WILLIAM_I_don_t_know_about_t=I don't know about this.
+gen_2101_WILLIAM_I_knew_this_would_ha=I knew this would happen. I knew it.
+gen_2102_WILLIAM_This_is_bad_=This is bad.
+gen_2103_WILLIAM_I_wish_I_could_measu=I wish I could measure the rate of decay.
+gen_2104_WILLIAM_Should_ve_listened_t=Should've listened to me. Idiots.
+gen_2105_WILLIAM_It_s_all_my_fault__I=It's all my fault. I have to fix this.
+gen_2106_WILLIAM_It_s_not_too_late_=It's not too late.
+gen_2200_WILLIAM_Be_careful_=Be careful!
+gen_2201_WILLIAM_Watch_out__Jack_=Watch out, Jack.
+gen_2202_WILLIAM_This_looks_dangerous=This looks dangerous.
+gen_2203_WILLIAM_Hmm_=Hmm.
+gen_2204_WILLIAM_Watch_out_=Watch out!
+gen_2300a_WILLIAM_Come_on__we_need_to_=Come on, we need to go.
+gen_2300b_WILLIAM_Hurry_up__Jack_=Hurry up, Jack.
+gen_2300c_WILLIAM_We_can_t_stay_here_=We can't stay here.
+gen_2300d_WILLIAM_Let_s_go_=Let's go.
+gen_2300e_WILLIAM_Jack__Over_here_=Jack? Over here.
+gen_2300f_WILLIAM_Jack__This_way_=Jack. This way.
+gen_2300g_WILLIAM_We_should_go_=We should go.
+gen_2300h_WILLIAM_Let_s_keep_moving_=Let's keep moving.
+gen_2300i_WILLIAM_C_mon__Jack_=C'mon, Jack.
+gen_2300j_WILLIAM_We_can_t_stop_here_=We can't stop here.
+gen_2300k_WILLIAM_C_mon__this_place_is=C'mon, this place isn't safe.
+gen_2300l_WILLIAM_We_re_wasting_time__=We're wasting time, Jack.
+gen_2300m_WILLIAM_Can_we_go_=Can we go?
+gen_2300n_WILLIAM_What_s_the_hold_up_=What's the hold-up?
+gen_2300o_WILLIAM_Jack__Through_here_=Jack. Through here.
+gen_2300p_WILLIAM_We_re_going_this_way=We're going this way.
+
+
+/.
+
+/_ JACK
+
+(Dialogi podczas walki - Brak Napisów)
+
+gen_0622a_JACK_Ohh__Oh__shit_=Ohh! Oh, shit!
+gen_0631a_JACK_Ahh__no_=Ahh, no!
+gen_0638a_JACK_Okay__okay_=Okay, okay.
+gen_0639a_JACK_You_can_do_this___=You can do this...
+gen_0640a_JACK_All_right_=All right.
+gen_0641a_JACK__Welcome_home__Jack_="Welcome home, Jack".
+gen_0642a_JACK_Okay__game_plan__thi=Okay, game plan, think...
+gen_0643a_JACK_Not_even_supposed_to=Not even supposed to be here...
+gen_0644a_JACK_Focus__Jack__focus_=Focus, Jack, focus.
+gen_0645a_JACK_I_hate_this_city_=I hate this city!
+gen_0646a_JACK_How_am_I_getting_out=How am I getting out of this?
+gen_0647a_JACK_Shit__shit__shit_=Shit, shit, shit.
+gen_0648a_JACK_Not_good_=Not good!
+gen_0649a_JACK_Goddammit_=Goddammit!
+gen_0650a_JACK_Aaagh_=Aaagh!
+gen_0651a_JACK_Son_of_a__=Son of a--
+gen_0654a_JACK_Dammit_=Dammit!
+gen_0655a_JACK_Not_again___=Not again...
+gen_0656a_JACK_Ughh_=Ughh!
+gen_0657a_JACK_Here_we_go___=Here we go...
+gen_0660a_JACK_More__No__come_on_=More? No, come on!
+gen_0661a_JACK_Son_of_a____=Son of a... 
+gen_0662a_JACK_Backup__Shit_=Backup. Shit!
+gen_0663a_JACK_Not_over_yet__Okay_=Not over yet. Okay.
+gen_0664a_JACK_Ohh_god__=Ohh god. 
+gen_0665a_JACK_That_was_close_=That was close.
+gen_0666a_JACK_It_s_over_=It's over.
+gen_0667a_JACK_Huhhh__Huh__Finally_=Huhhh. Huh. Finally.
+gen_0668a_JACK_Okay__Focus__Jack__F=Okay. Focus, Jack. Focus.
+
+gen_0669a_JACK_No__no_no_no_=No, no no no!
+gen_0670a_JACK_Oh_fff___=Oh fff...
+gen_0673a_JACK_Gotta_move_=Gotta move!
+
+gen_0675a_JACK_Holy_shit_=Holy shit!
+gen_0676a_JACK_Whoa_=Whoa!
+gen_0677a_JACK_Jesus__Close_one___=Jesus! Close one...
+gen_0680a_JACK_Awake_yet_=Awake yet?
+gen_0681a_JACK_That_s_right_=That's right!
+gen_0682a_JACK_Got_your_attention_=Got your attention?
+gen_0683a_JACK_Huh__Okay___=Huh! Okay...
+gen_0684a_JACK_Huh__Shit_=Huh! Shit.
+gen_0686a_JACK_Okay_=Okay!
+gen_0687a_JACK_Hey__play_nice_=Hey, play nice!
+gen_0688a_JACK_Sure__waste_your_bul=Sure, waste your bullets...
+gen_0689a_JACK_All_right__All_right=All right. All right.
+gen_0691a_JACK_Yeah__how_s_it_feel_=Yeah, how's it feel?
+gen_0693a_JACK_Got_your_attention_y=Got your attention yet?
+gen_0694a_JACK_Here_we_go_again_=Here we go again.
+gen_0695a_JACK_Come_on_=Come on!
+gen_0696a_JACK_Still_don_t_like_me_=Still don't like me, huh?
+gen_0697a_JACK_Here_we_go_=Here we go.
+gen_0699a_JACK_That_s_all_of_them__=That's all of them...
+gen_0700a_JACK_That_s_the_last_of__=That's the last of 'em...
+gen_0701a_JACK_Still_kickin____=Still kickin'...
+gen_0702a_JACK_Very__Quiet_=Very. Quiet.
+gen_0703a_JACK_Here_they_come___=Here they come...
+gen_0704a_JACK_Okay___=Okay...
+gen_0705a_JACK_Huh_=Huh.
+gen_0706a_JACK_I_see_you___=I see you...
+gen_0707a_JACK_Dammit_=Dammit!
+gen_0708a_JACK_Busted_=Busted.
+gen_0709a_JACK_Got_me_=Got me.
+gen_0710a_JACK_Ahhh_=Ahhh.
+gen_0712a_JACK_Great__more_of_these=Great, more of these assholes!
+gen_0713a_JACK_More__Really_=More? Really?
+gen_0714a_JACK_Oh__great_=Oh, great.
+gen_0715a_JACK_Just_give_up_=Just give up!
+gen_0716a_JACK_They_don_t_make_this=They don't make this easy!
+gen_0718a_JACK_Almost_there__almost=Almost there, almost there...
+gen_0719a_JACK_Getting_close___=Getting close...
+gen_0720a_JACK_Just_a_few_more___=Just a few more...
+gen_0721a_JACK_All_right__almost_th=All right, almost there...
+
+gen_0722a_JACK_Time_to_move_=Time to move!
+gen_0723a_JACK_Gotta_move_=Gotta move!
+gen_0724a_JACK_Thanks_for_the_heads=Thanks for the heads up!
+gen_0725a_JACK_That_s_my_cue_=That's my cue!
+gen_0726a_JACK_Incoming_=Incoming!
+
+gen_0753a_JACK_Drained___=Drained...
+gen_0754a_JACK_Can_t_do_it___=Can't do it...
+gen_0755a_JACK_Not_working___=Not working...
+gen_0756a_JACK_Can_t_focus___=Can't focus...
+gen_0764a_JACK_Time_to_get_out_of_h=Time to get out of here...
+gen_0765a_JACK_Gotta_keep_moving___=Gotta keep moving...
+gen_0766a_JACK_Let_s_do_this_=Let's do this.
+gen_0767a_JACK_Let_s_see_here___=Let's see here...
+gen_0768a_JACK_Nailed_it_=Nailed it.
+gen_0769a_JACK_Thank_you__thank_you=Thank you, thank you.
+gen_0770a_JACK_All_right__that_s_th=All right, that's that.
+gen_0771a_JACK_Boom_=Boom.
+gen_0772a_JACK_Not_bad__Jack_=Not bad, Jack.
+gen_0773a_JACK_Still_got_it_=Still got it.
+gen_0800a_JACK_How_did_that_happen_=How did that happen?
+gen_0801a_JACK_That_doesn_t_look_ri=That doesn't look right...
+gen_0802a_JACK_What_the_hell_happen=What the hell happened here?
+gen_0803a_JACK_That_can_t_be_normal=That can't be normal...
+gen_0804a_JACK_Still_moving_=Still moving.
+gen_0805a_JACK_Thing_creeps_me_out_=Thing creeps me out.
+gen_0806a_JACK_Still_weirds_me_out_=Still weirds me out.
+gen_0807a_JACK_Just__Stay__Still_=Just. Stay. Still.
+
+
+
+/_ 
+
+(Większość tych dialogów ma napisy - większość związana z Zebraniem Źródła Chrononu)
+
+gen_3901_JACK_Empty_again_=Empty again.
+gen_3902_JACK_Shit__I_m_out_=Shit, I'm out.
+gen_3903_JACK_I_need_ammo___=I need ammo...
+gen_3904_JACK_Ammo___=Ammo...
+gen_3905_JACK_I_m_out_=I'm out.
+gen_3906_JACK_Anybody_wanna_lend_m=Anybody wanna lend me a clip?
+gen_4000_JACK_Thank_God_=Thank God.
+gen_4001_JACK_Oh__God_=Oh, God.
+gen_4002_JACK_Thank_God_=Thank God.
+gen_4003_JACK_God_=God.
+gen_4004_JACK_About_time_=About time.
+gen_4005_JACK_About_time_=About time.
+gen_4006_JACK_Oh__finally_=Oh, finally.
+gen_4007_JACK_Finally_=Finally.
+gen_4008_JACK_It_s_over_=It's over.
+gen_4009_JACK_It_s_over_=It's over.
+gen_4010_JACK_Thank_God_=Thank God!
+gen_4011_JACK_Thank_God_=Thank God.
+gen_4012_JACK_It_s_about_time_=It's about time!
+gen_4013_JACK_It_s_about_time_=It's about time.
+gen_4014_JACK_Finally_=Finally.
+gen_4015_JACK_Finally_=Finally!
+gen_4050_JACK_How_do_I_do_this_=How do I do this?
+gen_4051_JACK_How_do_I_do_this_=How do I do this?
+gen_4052_JACK_How_do_I_do_this_=How do I do this?
+gen_4053_JACK_How_do_I_do_this_=How do I do this?
+gen_4054_JACK_Where_we_going_=Where we going?
+gen_4055_JACK_Where_we_going_=Where we going?
+gen_4056_JACK_Where_next_=Where next?
+gen_4057_JACK_Where_next_=Where next?
+gen_4200_JACK_Bingo_=Bingo.
+gen_4201_JACK_Bingo_=Bingo.
+gen_4202_JACK_Hello_=Hello.
+gen_4203_JACK_Hello___=Hello...
+gen_4204_JACK_Hello_=Hello.
+gen_4205_JACK_Gotcha_=Gotcha.
+gen_4206_JACK_There_we_go_=There we go.
+gen_4207_JACK_There_we_go_=There we go.
+gen_4208_JACK_There_we_go_=There we go.
+gen_4209_JACK_There_we_go_=There we go.
+gen_4210_JACK_All_right_=All right.
+gen_4211_JACK_All_right_=All right.
+gen_4212_JACK_All_right_=All right.
+gen_4213_JACK_What_do_we_got_here_=What do we got here?
+gen_4214_JACK_What_have_we_got_her=What have we got here...
+gen_4215_JACK_Well__what_have_we_g=Well, what have we got here.
+gen_4216_JACK_Hey__there_we_go_=Hey, there we go.
+gen_4217_JACK_Hey__there_we_go_=Hey, there we go.
+gen_4218_JACK_Hey__There_we_go_=Hey. There we go.
+gen_4219_JACK_Hey____there_we_go_=Hey... there we go.
+gen_4220_JACK_Nice_=Nice!
+gen_4221_JACK_Niice_=Niice.
+gen_4222_JACK_Nice_=Nice.
+gen_4250_JACK_Interesting___=Interesting...
+gen_4251_JACK_Huh_=Huh.
+gen_4252_JACK_Whoa_=Whoa.
+gen_4253_JACK_Whooa_=Whooa.
+gen_4254_JACK_Okay___=Okay...
+gen_4255_JACK_Okay_=Okay.
+gen_4256_JACK_Okay_=Okay.
+gen_4257_JACK_Okay___=Okay...
+gen_4400_JACK_Stutter___=Stutter...
+gen_4401_JACK_Stutter_=Stutter.
+gen_4402_JACK_Stutter_=Stutter.
+gen_4403_JACK_Stutter_=Stutter!
+gen_4404_JACK_Stutter_=Stutter!
+gen_4405_JACK_Stutter_=Stutter!
+gen_4406_JACK_Stutter_=Stutter.
+gen_4407_JACK_Stutter_=Stutter.
+gen_4408_JACK_And____silence_=And... silence.
+gen_4409_JACK_And____silence_=And... silence.
+gen_4410_JACK_Never_gonna_get_used=Never gonna get used to that...
+gen_4411_JACK_I_m_never_gonna_get_=I'm never gonna get used to that.
+gen_4412_JACK_I_m_never_gonna_get_=I'm never gonna get used to that.
+gen_4413_JACK_They_re_getting_more=They're getting more frequent.
+gen_4550_JACK_Ungh__Drained_=Ungh! Drained.
+gen_4551_JACK_Drained_=Drained.
+gen_4552_JACK_I_m_drained_=I'm drained.
+gen_4553_JACK_I_m_drained_=I'm drained.
+gen_4554_JACK_Drained_=Drained.
+gen_4555_JACK_I_m_drained_=I'm drained.
+gen_4556_JACK_Dampener_=Dampener.
+gen_4557_JACK_Hhh__It_s_a_dampener=Hhh. It's a dampener. 
+gen_4558_JACK_Dampener_=Dampener.
+gen_4559_JACK_I_m_never_gonna_get_=I'm never gonna get used to that...
+gen_4560_JACK_I_m_never_gonna_get_=I'm never gonna get used to that.
+gen_4561_JACK_Never_gonna_get_used=Never gonna get used to that.
+gen_4562_JACK_Not_again_=Not again.
+gen_4563_JACK_Ngh__Not_again_=Ngh! Not again.
+gen_4564_JACK_Not_again_=Not again.
+gen_5700_JACK_The_front_armor_s_wa=The front armor's way too thick!
+gen_5701_JACK_I_have_to_get_behind=I have to get behind that monster!
+gen_5702_JACK_Gotta_destroy_its_ch=Gotta destroy its chronon pack!
+gen_5703_JACK_That_s_his_weak_spot=That's his weak spot!
+gen_5704_JACK_That_did_some_damage=That did some damage!
+gen_5705_JACK_The_front_s_too_heav=The front's too heavy!
+gen_5706_JACK_That_armor_s_too_hea=That armor's too heavy.
+gen_5708_JACK_Can_t_breach_the_arm=Can't breach the armor!
+gen_5709_JACK_The_armor_s_too_thic=The armor's too thick!
+gen_5710_JACK_Gotta_get_behind_him=Gotta get behind him!
+gen_5711_JACK_This_isn_t_working_=This isn't working!
+gen_5712_JACK_That_s_the_sweet_spo=That's the sweet spot!
+gen_5713_JACK_Yeah__you_re_feeling=Yeah, you're feeling that!
+gen_5714_JACK_That_did_damage_=That did damage!
+gen_5715_JACK_That_made_a_dent_=That made a dent!
+gen_5716_JACK_That_s_working_=That's working!
+gen_5717_JACK_That_s_it_=That's it!
+gen_5800_JACK_Great____snipers_=Great... snipers.
+gen_5801_JACK_Snipers_=Snipers.
+gen_5802_JACK_Snipers_=Snipers.
+gen_5803_JACK_Shit__Snipers_=Shit. Snipers!
+gen_5804_JACK_Snipers_=Snipers!
+gen_5805_JACK_Gotta_get_out_of_the=Gotta get out of their crosshairs!
+gen_5806_JACK_They_re_right_on_me_=They're right on me!
+gen_5807_JACK_I_need_to_find_some_=I need to find some cover!
+gen_5900_JACK_The_hell__The_grenad=The hell? The grenade drained my powers!
+gen_5950_JACK_Powers_are_drained_=Powers are drained.
+gen_5951_JACK_Drained__Damn_it_=Drained. Damn it!
+gen_5952_JACK_Powers_aren_t_workin=Powers aren't working!
+gen_5953_JACK_Abilities_are_down_=Abilities are down.
+gen_5954_JACK_Chronon_grenades__gr=Chronon grenades, great!
+gen_5955_JACK_Shit__powers_are_dra=Shit, powers are drained.
+gen_6000_JACK_Shit__they_can_see_m=Shit, they can see me move in stutters!
+gen_6050_JACK_Okay__that_s_a_big_g=Okay, that's a big guy.
+gen_6051_JACK_Shotgunner_=Shotgunner.
+gen_6052_JACK_Big_guy_looks_angry_=Big guy looks angry.
+gen_6053_JACK_Shotgun__This_could_=Shotgun! This could hurt. 
+gen_6054_JACK_Okay__that_s_a_big_g=Okay, that's a big guy.
+
+/.
+
+/.
+
